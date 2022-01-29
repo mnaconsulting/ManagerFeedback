@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6S1VyH0J3Tm" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Performance Feedback</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Micro learning on Performance feedback</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Performance_Feedback_ORG">
+    <organization identifier="Performance_Feedback_ORG">
+      <title>Performance Feedback</title>
+      <item identifier="Performance_Feedback_SCO" isvisible="true" identifierref="__6S1VyH0J3Tm_RES">
+        <title>Performance Feedback</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6S1VyH0J3Tm_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6h2mcTcZXsi_80_DX1916_DY1916_CX958_CY716.png" />
+      <file href="mobile/5cfuc3Osa9n_80_B-44_C4_Q2A6A6A6_P_0_177_2048_1187_DX2576_DY2576_CX1862_CY1080.jpg" />
+      <file href="mobile/6hRfS2534JE_80_DX1200_DY1200_CX316_CY900.png" />
+      <file href="mobile/6lHeeAsjNde_80_DX1086_DY1086_CX420_CY236.png" />
+      <file href="mobile/5o19ZB1npoc_80_DX560_DY560_CX418_CY235.png" />
+      <file href="mobile/5Uo6eJak7yV_80_DX562_DY562_CX421_CY237.png" />
+      <file href="story_content/video_5t8GHACDZ8q_22_48_1296x720.mp4" />
+      <file href="mobile/poster_6WJe1lk6Fnv_video_5t8GHACDZ8q_22_48_1296x720.jpg" />
+      <file href="mobile/6UMS2QL3Mv1_X_80_P_0_0_1379_1630_DX1194_DY1194_CX447_CY528.png" />
+      <file href="mobile/6fHVhkqJkra_X_80_P_0_0_1281_1630_DX1194_DY1194_CX415_CY528.png" />
+      <file href="mobile/6LHnLAuHZPT_80_DX1080_DY1080_CX519_CY809.png" />
+      <file href="story_content/5XLSDxtLL2U_44100_48_0.mp3" />
+      <file href="story_content/6qo8tJ8pmek_captions.js" />
+      <file href="mobile/6IWM43Z7dfn_80_DX1080_DY1080_CX284_CY810.png" />
+      <file href="mobile/61ZkfVXDEES_80_DX1080_DY1080_CX361_CY809.png" />
+      <file href="story_content/6h2uMXHV9Ti_44100_48_0.mp3" />
+      <file href="story_content/6eVOAgIVDiG_captions.js" />
+      <file href="story_content/6hH2cVW2KEZ_44100_48_0.mp3" />
+      <file href="story_content/6dQri96125i_captions.js" />
+      <file href="story_content/6cRJmNywLZN_44100_48_0.mp3" />
+      <file href="story_content/5jO5g4MesLU_captions.js" />
+      <file href="mobile/6lHeeAsjNde_80_DX1086_DY1086_CX814_CY458.png" />
+      <file href="story_content/5hFbbeJUigo_44100_48_0.mp3" />
+      <file href="story_content/6PKvonL0b7Q_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jaWFCCNAcZ.js" />
+      <file href="html5/data/js/5x4GL3xkFgO.js" />
+      <file href="html5/data/js/5Z2UuaDukhc.js" />
+      <file href="html5/data/js/62BZBDzDeUn.js" />
+      <file href="html5/data/js/6S46FQ7CJuV.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
